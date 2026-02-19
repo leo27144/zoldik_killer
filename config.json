@@ -1,0 +1,19 @@
+{
+  "users": {
+    "241074719936": {
+      "sudoList": [
+        "241074719936@s.whatsapp.net"
+      ],
+      "tagAudioPath": "LET_THE_WORLD_BURN_TikTok_Guitar_Cover_x_Hoodtrap_Mashup_R3B.m4a",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "⚡",
+      "welcome": true,
+      "record": true,
+      "type": true,
+      "publicMode": true
+    }
+  }
+}
